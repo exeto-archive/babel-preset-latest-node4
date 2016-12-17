@@ -10,7 +10,7 @@
     "lib"
   ],
   "dependencies": {
-    "babel-preset-es2015-node4": "^2.1.0",
+    "babel-preset-es2015-node4": "^2.1.1",
     "babel-preset-es2016": "^6.16.0",
     "babel-preset-es2017": "^6.16.0"
   }
