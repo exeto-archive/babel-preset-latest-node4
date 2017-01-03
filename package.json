@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-latest-node4",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel preset including es2015+ for Node.js 4",
   "main": "lib/index.js",
   "repository": "exeto-archive/babel-preset-latest-node4",
