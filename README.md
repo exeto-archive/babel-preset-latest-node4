@@ -1,6 +1,9 @@
-# babel-preset-latest-node4 [![Dependency Status][depstat-image]][depstat-url]
+# babel-preset-latest-node4 (DEPRECATED)
+[![Dependency Status][depstat-image]][depstat-url]
 
 > Babel preset including es2015, es2016, es2017 for Node.js 4.
+
+**DEPRECATED: Use [babel-preset-env](https://github.com/babel/babel-preset-env)!**
 
 ## Install
 

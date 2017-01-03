@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Babel preset including es2015+ for Node.js 4",
   "main": "lib/index.js",
-  "repository": "exeto/babel-preset-latest-node4",
+  "repository": "exeto-archive/babel-preset-latest-node4",
   "author": "Timofey Dergachev <t@exeto.me> (https://exeto.me/)",
   "license": "MIT",
   "files": [
